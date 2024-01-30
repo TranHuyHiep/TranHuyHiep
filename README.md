@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hiep Tran</h1>
 <h3 align="center">A full-stack developer</h3>
 
-- 📫 How to reach me **tranhuyhiep0710@gmail.cpm**
+- 📫 How to reach me **tranhuyhiep0710@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
