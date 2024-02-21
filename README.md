@@ -15,8 +15,9 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=tranhuyhiep&show_icons=true&locale=en&theme=radical&card_width=350" alt="tranhuyhiep" /> 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tranhuyhiep&theme=radical&card_width=350" alt="tranhuyhiep" />
-<div>
-<img padding=10 height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tranhuyhiep&hide=scss,css,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact&langs_count=8&card_width=500" />
+
+<div>  
+<img padding="50px" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tranhuyhiep&hide=scss,css,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact&langs_count=8&card_width=500" />
 </div>
 
 
