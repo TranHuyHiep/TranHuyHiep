@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hiep Tran</h1>
 <h3 align="center">A full-stack developer</h3>
 
+<img align="center" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952etm7171n5rqfxmlxwako8jazbbcwnuuflgfh8a72&ep=v1_gifs_search&rid=200w.gif&ct=g"/>
+
 - 📫 How to reach me **tranhuyhiep0710@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
