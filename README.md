@@ -13,10 +13,10 @@
 <a href="https://www.youtube.com/@kit4359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kit4359" height="30" width="40" /></a>
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=tranhuyhiep&show_icons=true&locale=en&theme=radical&card_width=400" alt="tranhuyhiep" /> 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tranhuyhiep&theme=radical&card_width=400" alt="tranhuyhiep" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=tranhuyhiep&show_icons=true&locale=en&theme=radical&card_width=350" alt="tranhuyhiep" /> 
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tranhuyhiep&theme=radical&card_width=350" alt="tranhuyhiep" />
 <div>
-<img padding=10 height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tranhuyhiep&hide=scss,css,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact&langs_count=8&card_width=400" />
+<img padding=10 height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tranhuyhiep&hide=scss,css,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact&langs_count=8&card_width=500" />
 </div>
 
 
